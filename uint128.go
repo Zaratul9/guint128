@@ -1,4 +1,4 @@
-package Uint128
+package guint128
 
 type Uint128 struct {
 	Hi uint64
